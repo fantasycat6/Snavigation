@@ -1,12 +1,12 @@
 [
   {
-    "id": 0,
-    "name": "翻译",
+    "id": 7,
+    "name": "deepl翻译",
     "url": "https://www.deepl.com/zh/translator"
   },
   {
     "id": 1,
-    "name": "地图",
+    "name": "高德地图",
     "url": "https://ditu.amap.com/"
   },
   {
@@ -15,8 +15,8 @@
     "url": "https://www.pexels.com/zh-cn/"
   },
   {
-    "id": 3,
-    "name": "云盘",
+    "id": 12,
+    "name": "阿里云盘",
     "url": "https://www.aliyundrive.com/drive/"
   },
   {
@@ -26,7 +26,7 @@
   },
   {
     "id": 5,
-    "name": "邮箱",
+    "name": "QQ邮箱",
     "url": "https://mail.qq.com/"
   },
   {
@@ -35,8 +35,133 @@
     "url": "https://github.com/"
   },
   {
-    "id": 7,
+    "id": 0,
     "name": "哔哩哔哩",
     "url": "https://www.bilibili.com/"
+  },
+  {
+    "id": 8,
+    "name": "网易邮箱",
+    "url": "http://mail.163.com/"
+  },
+  {
+    "id": 9,
+    "name": "Gmail邮箱",
+    "url": "https://mail.google.com/mail/u/0/"
+  },
+  {
+    "id": 10,
+    "name": "百度云盘",
+    "url": "http://pan.baidu.com/disk/home#from=share_pan_logo"
+  },
+  {
+    "id": 11,
+    "name": "蓝奏云",
+    "url": "http://pan.lanzou.com/"
+  },
+  {
+    "id": 3,
+    "name": "Cloudreve网盘",
+    "url": "http://gyxnb.top/home?path=%2F"
+  },
+  {
+    "id": 13,
+    "name": "微云",
+    "url": "http://www.weiyun.com"
+  },
+  {
+    "id": 14,
+    "name": "Google 云盘",
+    "url": "https://drive.google.com/drive/my-drive"
+  },
+  {
+    "id": 15,
+    "name": "YouTube",
+    "url": "https://www.youtube.com/"
+  },
+  {
+    "id": 16,
+    "name": "腾讯视频",
+    "url": "https://v.qq.com/"
+  },
+  {
+    "id": 17,
+    "name": "爱奇艺",
+    "url": "https://www.iqiyi.com"
+  },
+  {
+    "id": 18,
+    "name": "云翼星辰",
+    "url": "https://hkix.yyxc.org/"
+  },
+  {
+    "id": 19,
+    "name": "IKUUU VPN",
+    "url": "https://ikuuu.pw"
+  },
+  {
+    "id": 20,
+    "name": "樱花frp",
+    "url": "https://www.natfrp.com/user/"
+  },
+  {
+    "id": 21,
+    "name": "mefrp",
+    "url": "https://www.mefrp.com/console/home"
+  },
+  {
+    "id": 22,
+    "name": "云原神",
+    "url": "https://ys.mihoyo.com/cloud/?utm_source=default#/"
+  },
+  {
+    "id": 23,
+    "name": "云星穹铁道",
+    "url": "https://sr.mihoyo.com/cloud/?utm_source=official#/"
+  },
+  {
+    "id": 24,
+    "name": "web安全学习笔记",
+    "url": "https://love.gyxnb.top/learn/"
+  },
+  {
+    "id": 25,
+    "name": "linux命令",
+    "url": "https://love.gyxnb.top/linux/"
+  },
+  {
+    "id": 26,
+    "name": "AList",
+    "url": "http://gyxnb.top:5244/"
+  },
+  {
+    "id": 27,
+    "name": "tool在线工具",
+    "url": "http://tool.gyxnb.top:8084/"
+  },
+  {
+    "id": 28,
+    "name": "文件管理",
+    "url": "http://gyxnb.top:8086/files/"
+  },
+  {
+    "id": 29,
+    "name": "外链网盘",
+    "url": "http://pan.gyxnb.top:8083/"
+  },
+  {
+    "id": 30,
+    "name": "网易云音乐",
+    "url": "http://music.163.com/?from=infinity"
+  },
+  {
+    "id": 31,
+    "name": "酷狗音乐",
+    "url": "http://www.kugou.com/"
+  },
+  {
+    "id": 32,
+    "name": "QQ音乐",
+    "url": "http://y.qq.com/"
   }
 ]
