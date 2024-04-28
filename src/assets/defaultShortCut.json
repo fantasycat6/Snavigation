@@ -120,70 +120,19 @@
     "name": "mefrp",
     "url": "https://www.mefrp.com/console/home"
   },
-    {
+  {
     "id": 24,
-    "name": "Cloudreve网盘",
-    "url": "http://gyxnb.top/home?path=%2F"
-  },
-  {
-    "id": 25,
-    "name": "web安全学习笔记",
-    "url": "https://love.gyxnb.top/learn/"
-  },
-  {
-    "id": 26,
-    "name": "linux命令",
-    "url": "https://love.gyxnb.top/linux/"
-  },
-  {
-    "id": 27,
-    "name": "AList",
-    "url": "http://alist.gyxnb.top"
-  },
-  {
-    "id": 28,
-    "name": "tool在线工具",
-    "url": "http://tool.gyxnb.top"
-  },
-  {
-    "id": 29,
-    "name": "tools工具",
-    "url": "http://tools.gyxnb.top/"
-  },
-  {
-    "id": 30,
-    "name": "文件管理",
-    "url": "http://fileb.gyxnb.top/files/"
-  },
-  {
-    "id": 31,
-    "name": "外链网盘",
-    "url": "http://pan.gyxnb.top/"
-  },
-  {
-    "id": 32,
     "name": "网易云音乐",
     "url": "http://music.163.com/?from=infinity"
   },
   {
-    "id": 33,
+    "id": 25,
     "name": "酷狗音乐",
     "url": "http://www.kugou.com/"
   },
   {
-    "id": 34,
+    "id": 26,
     "name": "QQ音乐",
     "url": "http://y.qq.com/"
-  },
-  {
-    "id": 33,
-    "name": "泡泡主页",
-    "url": "http://home.gyxnb.top"
-  },
-  {
-    "id": 35,
-    "name": "泡泡主页2",
-    "url": "http://love.gyxnb.top"
   }
-
 ]
